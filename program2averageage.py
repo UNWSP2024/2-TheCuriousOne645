@@ -1,6 +1,6 @@
 # Program #2: Average Age
-# Author: [Your Name]
-# Date: [Today's Date]
+# Author: [Austin]
+# Date: [1/29/2025]
 # Title: Average Age Calculator
 
 # Input ages of five friends
