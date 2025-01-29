@@ -1,6 +1,6 @@
 # Program #3: Total Purchase
-# Author: [Your Name]
-# Date: [Today's Date]
+# Author: [Austin]
+# Date: [1/29/2025]
 # Title: Total Purchase Calculator
 
 # Input prices of five items
