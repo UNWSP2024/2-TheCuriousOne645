@@ -1,5 +1,5 @@
-budgeted_amount = float(input("Enter the amount you have budgeted for the month: "))
-total_expenses = 0
+budgeted_amount = float(input("Enter the amount you have budgeted for the month: 4,000"))
+total_expenses = 300
 
 while True:
     expense = input("Enter an expense (or type 'done' to finish): ")
