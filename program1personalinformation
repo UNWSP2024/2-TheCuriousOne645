@@ -1,0 +1,9 @@
+# Program #1: Personal Information
+# Author: [Austin]
+# Date: [1/29/2025]
+# Title: Personal Information Display
+
+print("Name: John Doe")
+print("Address: 123 Fictional St, Imaginary City, CA 90210")
+print("Telephone: (555) 555-1234")
+print("College Major: Computer Science")
